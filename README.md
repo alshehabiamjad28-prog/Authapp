@@ -1,0 +1,2 @@
+# Authapp
+supabase authentication app
