@@ -16,9 +16,9 @@ verification with OTP.
 
 
 
-|  التسجيل |  الشاشه الرئيسيه | إدارة الوصفات | المفضله | اعدادات المستخدم |تفاصيل الوصفه
+|  Login |  الشاشه الرئيسيه | إدارة الوصفات | المفضله | اعدادات المستخدم |تفاصيل الوصفه
 |----------------|-----------------|--------------|-----------------|-----------------|-----------------|
-| <img width="130" height="250" alt="registration_page" src="https://github.com/user-attachments/assets/d0f27f57-6199-4ddf-9238-36bb69f62926" /> | <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/fffc5fd6-184d-4e85-9c27-3e279dde732f" /> | <img width="130" height="250" alt="user_recipes" src="https://github.com/user-attachments/assets/858a1f10-0f2a-4c3a-8f88-dd3f0cd1d22b" /> |<img width="130" height="250" alt="user_favorites" src="https://github.com/user-attachments/assets/36f1b64e-e914-43ba-9d06-f2bad00f8a54" /> | <img width="130" height="250" alt="user_settings" src="https://github.com/user-attachments/assets/d56549cd-1342-4800-9134-33d0374bed70" /> | <img width="130" height="250" alt="recipe_details" src="https://github.com/user-attachments/assets/b6e46649-6783-4100-acb3-d7d7ba504266" />
+| | <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/fffc5fd6-184d-4e85-9c27-3e279dde732f" /> | <img width="130" height="250" alt="user_recipes" src="https://github.com/user-attachments/assets/858a1f10-0f2a-4c3a-8f88-dd3f0cd1d22b" /> |<img width="130" height="250" alt="user_favorites" src="https://github.com/user-attachments/assets/36f1b64e-e914-43ba-9d06-f2bad00f8a54" /> | <img width="130" height="250" alt="user_settings" src="https://github.com/user-attachments/assets/d56549cd-1342-4800-9134-33d0374bed70" /> | <img width="130" height="250" alt="recipe_details" src="https://github.com/user-attachments/assets/b6e46649-6783-4100-acb3-d7d7ba504266" />
 
 
 ## Features
