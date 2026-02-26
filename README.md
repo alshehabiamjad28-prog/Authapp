@@ -83,3 +83,23 @@ verification with OTP.
 2. Install dependencies:
    ```bash
    flutter pub get
+
+
+   
+1. Run the app:
+   ```bash
+   flutter run
+   ```
+
+---
+
+Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.0.0
+  get: ^4.6.5
+```
+
