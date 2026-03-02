@@ -31,11 +31,7 @@ verification with OTP.
 
 ----
 
-## Screenshots
 
-<!--  -->
-
-----
 
 ## Project Structure
 
