@@ -18,7 +18,7 @@ verification with OTP.
 
 |  Login |   OTPcheck |  resestPassword | sendOTP | newPassword  |register
 |----------------|-----------------|--------------|-----------------|-----------------|-----------------|
-| <img width="130" height="255" alt="login" src="https://github.com/user-attachments/assets/6c000921-1fd7-44a8-a9a9-8aae7c2e0313" /> |<img width="139" height="255" alt="Otpcheck" src="https://github.com/user-attachments/assets/7280903f-c1f4-4d11-a82b-f83f0add2b1b" /> | <img width="1466" height="3101" alt="resetPassword" src="https://github.com/user-attachments/assets/d75d36ac-c941-4d30-af1e-7b2a96239bc5" />
+| <img width="150" height="255" alt="login" src="https://github.com/user-attachments/assets/6c000921-1fd7-44a8-a9a9-8aae7c2e0313" /> |<img width="150" height="255" alt="Otpcheck" src="https://github.com/user-attachments/assets/7280903f-c1f4-4d11-a82b-f83f0add2b1b" /> | <img width="150" height="255" alt="resetPassword" src="https://github.com/user-attachments/assets/d75d36ac-c941-4d30-af1e-7b2a96239bc5" /> | <img width="150" height="255" alt="sendOTp" src="https://github.com/user-attachments/assets/150e3a53-7b2c-4a17-9ae7-89fdc98134d6" /> | <img width="150" height="255" alt="newPassword" src="https://github.com/user-attachments/assets/0371d8fc-6aec-4ddd-a164-f6aef9627536" /> | <img width="150" height="255" alt="register" src="https://github.com/user-attachments/assets/18bfea2a-cb35-45be-9c07-91a81166dfa9" />
 
 ## Features
 
