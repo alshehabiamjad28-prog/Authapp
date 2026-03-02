@@ -16,9 +16,10 @@ verification with OTP.
 
 
 
-|  Login |  الشاشه الرئيسيه | إدارة الوصفات | المفضله | اعدادات المستخدم |تفاصيل الوصفه
+|  Login |   OTPcheck |  resestPassword | sendOTP | newPassword  |register
 |----------------|-----------------|--------------|-----------------|-----------------|-----------------|
-| <img width="130" height="255" alt="login" src="https://github.com/user-attachments/assets/6c000921-1fd7-44a8-a9a9-8aae7c2e0313" />
+| <img width="130" height="255" alt="login" src="https://github.com/user-attachments/assets/6c000921-1fd7-44a8-a9a9-8aae7c2e0313" /> |
+<img width="139" height="255" alt="Otpcheck" src="https://github.com/user-attachments/assets/7280903f-c1f4-4d11-a82b-f83f0add2b1b" />
 
 ## Features
 
