@@ -18,8 +18,7 @@ verification with OTP.
 
 |  Login |   OTPcheck |  resestPassword | sendOTP | newPassword  |register
 |----------------|-----------------|--------------|-----------------|-----------------|-----------------|
-| <img width="130" height="255" alt="login" src="https://github.com/user-attachments/assets/6c000921-1fd7-44a8-a9a9-8aae7c2e0313" /> |
-<img width="139" height="255" alt="Otpcheck" src="https://github.com/user-attachments/assets/7280903f-c1f4-4d11-a82b-f83f0add2b1b" />
+| <img width="130" height="255" alt="login" src="https://github.com/user-attachments/assets/6c000921-1fd7-44a8-a9a9-8aae7c2e0313" /> |<img width="139" height="255" alt="Otpcheck" src="https://github.com/user-attachments/assets/7280903f-c1f4-4d11-a82b-f83f0add2b1b" /> | <img width="1466" height="3101" alt="resetPassword" src="https://github.com/user-attachments/assets/d75d36ac-c941-4d30-af1e-7b2a96239bc5" />
 
 ## Features
 
